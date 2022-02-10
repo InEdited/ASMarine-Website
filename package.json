@@ -6,7 +6,7 @@
     "bootstrap": "^4.5.0",
     "classnames": "2.2.6",
     "moment": "2.26.0",
-    "node-sass": "4.14.1",
+    "node-sass": "7.0.0",
     "nouislider": "14.5.0",
     "openlayers": "^4.6.5",
     "react": "16.13.1",
